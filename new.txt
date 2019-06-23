@@ -1,0 +1,6 @@
+commnewand git hub
+git init
+git remote add origin
+git add (file name )
+git add .(all files)
+git commit -m "message write"
