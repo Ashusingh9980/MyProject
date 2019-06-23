@@ -4,3 +4,7 @@ git remote add origin
 git add (file name )
 git add .(all files)
 git commit -m "message write"
+git commit -m "message write"
+git config --global user.email "sveeru344@gmail.com"
+git config --global user.name "Ashusingh9980"
+git push origin master
